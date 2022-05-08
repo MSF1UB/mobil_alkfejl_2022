@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Online jóga és meditáció</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="username">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="welcome">Üdvözöllek!</string>
+    <string name="phone_number">Telefonszám</string>
+
+    <!--RecycleView resources-->
+    <string name="title_placeholder">Név</string>
+    <string name="item_placeholder">Név</string>
+    <string name="item_info_placeholder">Név</string>
+    <string name="cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+
+    <string-array name="shopping_item_names">
+        <item>Meditáció</item>
+        <item>Meditáció</item>
+        <item>Jóga</item>
+        <item>Jóga</item>
+    </string-array>
+
+    <string-array name="shopping_item_info">
+        <item>Meditációs segédlet kezdőknek</item>
+        <item>Meditációs segédlet haladóknak</item>
+        <item>Jóga segédlet kezdőknek</item>
+        <item>Jóga segédlet haladóknak</item>
+    </string-array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/joga1</item>
+        <item>@drawable/joga2</item>
+        <item>@drawable/med1</item>
+        <item>@drawable/med2</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>500ft</item>
+        <item>500ft</item>
+        <item>1000ft</item>
+        <item>1000ft</item>
+    </array>
+
+</resources>

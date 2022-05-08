@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "775576936952",
+    "project_id": "joga-53e7d",
+    "storage_bucket": "joga-53e7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775576936952:android:d3705bc52d029f4957f60d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775576936952-9sf9gmhtbm67d4f7isqm39qt6l7pp715.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "f42557d5152ee39055c7c10eb4215e3847f6c7d0"
+          }
+        },
+        {
+          "client_id": "775576936952-p7lasd2fffsr521vh02eorsuu5a5ilu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYUC3TWJX0pN1aoOAqlGTokx-IlrR7ORg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775576936952-p7lasd2fffsr521vh02eorsuu5a5ilu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
